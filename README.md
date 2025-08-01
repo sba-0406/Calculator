@@ -1,7 +1,6 @@
 
----
 
-```markdown
+
 # Stylish Calculator
 
 A responsive and visually appealing calculator built with HTML, CSS, and JavaScript. Designed with a soft lavender/purple gradient background and smooth button styling for an elegant user experience.
@@ -52,5 +51,4 @@ This project is for learning and personal use. No license required.
 
 ---
 
-```
 
